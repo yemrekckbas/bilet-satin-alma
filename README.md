@@ -11,5 +11,4 @@ Kullanıcılar web arayüzü üzerinden bilet satın alabilir ve sistem backend 
 - Docker container ile kolay kurulum ve taşınabilirlik
 - Apache mod_rewrite etkin, index.php kök dizinde açılır
 
-## Dosya Yapısı
 
